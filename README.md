@@ -9,7 +9,7 @@ Welcome to ClimateWatcher, a passion project born from a desire to combine techn
 
 🚨 Live Seismic Activity: Visualize real-time seismic data with an interactive map, showcasing recent earthquakes around the globe. This feature demonstrates my ability to handle and render dynamic, rapidly changing datasets.
 
-🌡️ Historical Climate Data: Effortlessly look up historical climate information, including minimum/maximum temperatures, humidity, and wind speed—for any location worldwide.
+🌡️ Historical Climate Data: Effortlessly look up historical climate information, including minimum/maximum temperatures, humidity, and wind speed for any location worldwide.
 
 🐾 Wildlife Database: Explore a comprehensive animal encyclopedia. This feature displays beautifully formatted information cards with detailed data on various animal species, showcasing my data structuring and presentation skills.
 
@@ -27,13 +27,29 @@ Dependency Management: npm
 ## ⚙️ API Integrations
 The true heart of this project lies in its seamless integration with several powerful third-party APIs. This experience was central to the project's development and demonstrates a strong command of fetch and asynchronous JavaScript.
 
-News API: For fetching and displaying global climate-related news articles.
+### News API: For fetching and displaying global climate-related news articles.
 
-Seismic Activity API: For retrieving and rendering real-time earthquake data.
+![Climate Watcher Home Screenshot](Photos/ClimateWatcherHome.png)
 
-Climate Data API: For accessing and presenting historical weather information.
 
-Wildlife Data API: For populating the animal information cards with rich, detailed data.
+
+### Seismic Activity API: For retrieving and rendering real-time earthquake data.
+
+![Climate Watcher Home Screenshot](Photos/ClimateWatcherSeismic.png)
+
+
+
+### Climate Data API: For accessing and presenting historical weather information.
+
+![Climate Watcher Home Screenshot](Photos/ClimateWatcherWeather.png)
+
+
+
+### Wildlife Data API: For populating the animal information cards with rich, detailed data.
+
+![Climate Watcher Home Screenshot](Photos/ClimateWatcherWildlifeIndex.png)
+
+
 
 ## 🚀 Getting Started
 To get a copy of this project up and running on your local machine, follow these simple steps.
